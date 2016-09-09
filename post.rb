@@ -97,8 +97,8 @@ end
 
       host = "api-sandbox.aurorasolar.com"
       # Example API key/secret. Keep YOUR key/secret in a safe place!!!
-      aurora_api_key = "bcc68198-b5b5-42ad-a34e-f99ba462d102"
-      aurora_api_secret = "e412286f-76d6-40f3-b4a5-1cb4992651e4"
+      aurora_api_key = "NSArr7978-b47dJsuwyjukm26783268lsd"
+      aurora_api_secret = "MIJIDU-BHSTETRDTFGdmcnjdfuye34445"
       timestamp = URI.escape(Time.now.utc.to_s)
 
       http_verb = "POST"
